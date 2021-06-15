@@ -1,2 +1,2 @@
 # Unique
-Unique is a PSD to html  webpage design using HTML, CSS, Javascript, Bootstrap
+Unique is a PSD to html  webpage design using HTML, CSS, Bootstrap.
