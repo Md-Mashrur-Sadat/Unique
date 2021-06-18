@@ -231,4 +231,147 @@ a, a:hover{
 	border: 1px solid #511de5;
 }
 /* intro-quote code end */
+
 /*feature section code end*/
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  	.header-section .navbar-light .navbar-nav .nav-link.active{
+		
+		background: url("../images/hr.png") left bottom no-repeat;
+		background-size: auto;
+	}
+
+	.header-section .navbar-light .navbar-nav .nav-link:focus, .header-section .navbar-light .navbar-nav .nav-link:hover{
+		
+		background: url("../images/hr.png") left bottom no-repeat;
+		background-size: auto;
+	}
+
+	.inner-banner h1 {
+	    font-size: 30px;
+	    font-weight: 800;
+	    line-height: 46px;
+	}
+
+	.banner {
+	    width: 100%;
+	    padding: 100px 0px;
+	}
+
+	.inner-high h2 {
+	    font-size: 18px;
+	    font-weight: 700;
+	    line-height: 24px;
+	    color: #fff;
+	    text-align: center;
+	}
+
+	.inner-high img {
+	    position: absolute;
+	    top: -95px;
+	    width: 150px;
+	    left: 0;
+	}
+  
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+ .header-section .navbar-light .navbar-nav .nav-link.active{
+		
+		background: url("../images/hr.png") left bottom no-repeat;
+		background-size: auto;
+	}
+
+	.header-section .navbar-light .navbar-nav .nav-link:focus, .header-section .navbar-light .navbar-nav .nav-link:hover{
+		
+		background: url("../images/hr.png") left bottom no-repeat;
+		background-size: auto;
+	}
+
+	.inner-banner h1 {
+	    font-size: 35px;
+	    font-weight: 800;
+	    line-height: 50px;
+	}
+
+	.banner {
+	    width: 100%;
+	    padding: 100px 0px;
+	}
+
+	.inner-high h2 {
+	    font-size: 18px;
+	    font-weight: 700;
+	    line-height: 24px;
+	    color: #fff;
+	    text-align: center;
+	}
+
+	.inner-high img {
+	    position: absolute;
+	    top: -95px;
+	    width: 150px;
+	    left: 0;
+	}
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  .header-section .navbar-light .navbar-nav .nav-link.active{
+		
+		background: url("../images/hr.png") left bottom no-repeat;
+		background-size: auto;
+	}
+
+	.header-section .navbar-light .navbar-nav .nav-link:focus, .header-section .navbar-light .navbar-nav .nav-link:hover{
+		
+		background: url("../images/hr.png") left bottom no-repeat;
+		background-size: auto;
+	}
+
+	.inner-banner h1 {
+	    font-size: 35px;
+	    font-weight: 800;
+	    line-height: 50px;
+	}
+
+	.banner {
+	    width: 100%;
+	    padding: 100px 0px;
+	}
+
+	.inner-high h2 {
+	    font-size: 18px;
+	    font-weight: 700;
+	    line-height: 24px;
+	    color: #fff;
+	    text-align: center;
+	}
+
+	.inner-high img {
+	    position: absolute;
+	    top: -95px;
+	    width: 150px;
+	    left: 0;
+	}
+  
+}
