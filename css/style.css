@@ -240,46 +240,80 @@ a, a:hover{
 */
 
 @media (min-width: 320px) and (max-width: 480px) {
-  
-  	.header-section .navbar-light .navbar-nav .nav-link.active{
-		
-		background: url("../images/hr.png") left bottom no-repeat;
-		background-size: auto;
-	}
 
+	.header-section .navbar-light .navbar-nav .nav-link.active {
+	    background: url("../images/hr.png") left bottom no-repeat;
+	    background-size: auto;
+	}
 	.header-section .navbar-light .navbar-nav .nav-link:focus, .header-section .navbar-light .navbar-nav .nav-link:hover{
-		
+
 		background: url("../images/hr.png") left bottom no-repeat;
 		background-size: auto;
 	}
-
-	.inner-banner h1 {
-	    font-size: 30px;
-	    font-weight: 800;
-	    line-height: 46px;
-	}
-
+	
+  
 	.banner {
-	    width: 100%;
-	    padding: 100px 0px;
+	    padding: 60px 0px;
 	}
-
-	.inner-high h2 {
-	    font-size: 18px;
-	    font-weight: 700;
-	    line-height: 24px;
-	    color: #fff;
+	.inner-banner {
+	    padding: 30px 0px;
 	    text-align: center;
 	}
 
-	.inner-high img {
-	    position: absolute;
-	    top: -95px;
-	    width: 150px;
-	    left: 0;
+	.inner-banner h1 {
+	    font-size: 26px;
+	    line-height: 32px;
 	}
   
-  
+  	.inner-high img {
+
+	    top: -91px;
+	    width: 151px;
+
+	}
+	.inner-high h2 {
+	    font-size: 14px;
+	    font-weight: 600;
+	    line-height: 20px;
+	    
+	}
+
+	.feature .inner-feature .inner-percent p .percent {
+	    font-size: 48px;
+	    
+	}
+
+	.feature .inner-feature {
+	    padding: 10px;
+	}
+
+	.feature .inner-feature h2 {
+	    font-size: 19px;
+	    line-height: 27px;
+	}
+
+	.feature .inner-feature p {
+	    font-size: 14px;
+	    line-height: 20px;
+	}
+
+	.feature .inner-feature .inner-percent p .pro {
+	    font-size: 10px;
+	    font-weight: 700;
+	    margin-left: 4px;
+	}
+
+	.feature .clients {
+	    padding: 35px 0px 0px;
+	}
+  	.inner-quote-text {
+	    width: 40%;
+	    margin: 0px auto;
+	    padding: 20px 0px 90px;
+	}
+	.inner-quote-text p{
+		margin-left: 5px;
+	}
 }
 
 /* 
@@ -288,45 +322,77 @@ a, a:hover{
 */
 
 @media (min-width: 481px) and (max-width: 767px) {
-  
- .header-section .navbar-light .navbar-nav .nav-link.active{
-		
-		background: url("../images/hr.png") left bottom no-repeat;
-		background-size: auto;
+  .header-section .navbar-light .navbar-nav .nav-link.active {
+	    background: url("../images/hr.png") left bottom no-repeat;
+	    background-size: auto;
 	}
-
 	.header-section .navbar-light .navbar-nav .nav-link:focus, .header-section .navbar-light .navbar-nav .nav-link:hover{
-		
+
 		background: url("../images/hr.png") left bottom no-repeat;
 		background-size: auto;
 	}
-
-	.inner-banner h1 {
-	    font-size: 35px;
-	    font-weight: 800;
-	    line-height: 50px;
-	}
-
+	
+  
 	.banner {
-	    width: 100%;
-	    padding: 100px 0px;
+	    padding: 60px 0px;
 	}
-
-	.inner-high h2 {
-	    font-size: 18px;
-	    font-weight: 700;
-	    line-height: 24px;
-	    color: #fff;
+	.inner-banner {
+	    padding: 30px 0px;
 	    text-align: center;
 	}
 
-	.inner-high img {
-	    position: absolute;
-	    top: -95px;
-	    width: 150px;
-	    left: 0;
+	.inner-banner h1 {
+	    font-size: 26px;
+	    line-height: 32px;
 	}
   
+  	.inner-high img {
+
+	    top: -91px;
+	    width: 151px;
+
+	}
+	.inner-high h2 {
+	    font-size: 14px;
+	    font-weight: 600;
+	    line-height: 20px;
+	    
+	}
+
+	.feature .inner-feature .inner-percent p .percent {
+	    font-size: 48px;
+	    
+	}
+
+	.feature .inner-feature {
+	    padding: 10px;
+	}
+
+	.feature .inner-feature h2 {
+	    font-size: 19px;
+	    line-height: 27px;
+	}
+
+	.feature .inner-feature p {
+	    font-size: 14px;
+	    line-height: 20px;
+	}
+
+	.feature .inner-feature .inner-percent p .pro {
+	    font-size: 10px;
+	    font-weight: 700;
+	    margin-left: 4px;
+	}
+
+	.feature .clients {
+	    padding: 35px 0px 0px;
+	}
+  	.inner-quote-text {
+    width: 40%;
+    margin: 0px auto;
+    padding: 20px 0px 90px;
+}
+ 
 }
 
 /* 
@@ -335,43 +401,49 @@ a, a:hover{
 */
 
 @media (min-width: 768px) and (max-width: 1024px) {
-  
-  .header-section .navbar-light .navbar-nav .nav-link.active{
-		
-		background: url("../images/hr.png") left bottom no-repeat;
-		background-size: auto;
+  .header-section .navbar-light .navbar-nav .nav-link.active {
+	    background: url("../images/hr.png") left bottom no-repeat;
+	    background-size: auto;
 	}
-
 	.header-section .navbar-light .navbar-nav .nav-link:focus, .header-section .navbar-light .navbar-nav .nav-link:hover{
-		
+
 		background: url("../images/hr.png") left bottom no-repeat;
 		background-size: auto;
 	}
-
-	.inner-banner h1 {
-	    font-size: 35px;
-	    font-weight: 800;
-	    line-height: 50px;
-	}
-
 	.banner {
-	    width: 100%;
-	    padding: 100px 0px;
+	    padding: 60px 0px;
 	}
-
-	.inner-high h2 {
-	    font-size: 18px;
-	    font-weight: 700;
-	    line-height: 24px;
-	    color: #fff;
+	.inner-banner {
+	    padding: 30px 0px;
 	    text-align: center;
 	}
-
-	.inner-high img {
+  	.inner-high img {
 	    position: absolute;
-	    top: -95px;
-	    width: 150px;
-	    left: 0;
+	    top: -112px;
+	    width: 173px;
+	    left: -45px;
 	}
-  
+
+	.feature .inner-feature h2 {
+	    font-size: 25px;
+	    font-weight: 800;
+	    line-height: 29px;
+	}
+
+	.feature .inner-feature p {
+	    font-size: 11px;
+	    line-height: 18px;
+	    margin: 23px 0px 30px;
+	}
+
+	.feature .inner-feature .inner-percent p .percent {
+	    font-size: 70px;
+	    
+	}
+
+	.inner-quote {
+	    width: 70%;
+	    padding: 75px 27px 100px;
+	    
+}
 }
